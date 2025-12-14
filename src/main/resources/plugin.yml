@@ -8,3 +8,4 @@ main: io.github.thebusybiscuit.slimefunorechunks.OreChunks
 depend: [Slimefun]
 
 api-version: 1.14
+folia-supported: true
